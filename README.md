@@ -4,7 +4,7 @@
 - 😄 I like watching YouTube
 
 //github
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://github.com/leetaeyeon11111/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 //naver
 <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=aws&logoColor=white">
   
