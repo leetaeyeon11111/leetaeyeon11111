@@ -3,7 +3,7 @@
 - 🔭 I’m Taeyeon Lee
 - 😄 I like watching YouTube
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
